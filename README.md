@@ -12,5 +12,29 @@ Dynamic Filtering: Users can apply filters to view data specific to departments,
 # Data Source
 The data used in this dashboard is a simulated HR dataset. It includes records on employee demographics, job roles, compensation, and attrition status.
 
+# 🛠️ Tools Used
+Microsoft Excel/Power Query: For data cleaning and transformation.
+Power BI: For creating interactive dashboards and visualizations.
+
+# 🚀 Steps to Recreate the Analysis
+1️⃣ Data Preparation
+Import the sales data into Power Query for cleaning and transformation.
+Perform tasks like:
+Removing duplicates and handling missing values.
+Creating calculated fields such as revenue, profit margin, and order count.
+2️⃣ Dashboard Creation
+Load the cleaned data into Power BI Desktop.
+Create visuals to analyze:
+Sales trends over time.
+Product performance by category and region.
+Customer behavior and demographics.
+Interactive KPIs and slicers for a dynamic experience.
+Publish the dashboard for sharing and collaboration.
+
+# 📸 Dashboards
+Dashboard Overview
+![Screenshot 2024-07-27 165436](https://github.com/user-attachments/assets/ef1042c8-a439-4478-9e40-542571fc21be)
+
+
 My LinkedIn profile 
 www.linkedin.com/in/manisha-chaudhari
